@@ -1,4 +1,3 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Victor Lucas de Araújo Silva
-Tópicos essenciais para a Programação
+Respondendo a lista de exercício do GitHub
